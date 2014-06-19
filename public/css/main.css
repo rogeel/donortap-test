@@ -1,0 +1,50 @@
+body {
+}
+ 
+.form-signup, .form-signin {
+    width: 400px;
+    margin: 0 auto;
+	padding: 27px;
+}
+
+#menu-content .text-bg{
+	color: #fff;
+	font-size: 24px;
+}
+
+form.inline-block{
+	display: inline-block;
+}
+
+.donor span.avg{
+
+	width: 80px;
+	min-width: 80px;
+	height: 80px;
+	vertical-align: middle;
+	font-size: 22px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 39px;
+	color: #fff;
+	line-height: normal;
+	background-color: #6AA023;
+	display: table-cell;
+	text-align: center;
+
+}
+
+a.list-group-item.donor .list-group-item-heading {
+	color:#436810;
+}
+
+.donor .last-contact{
+	font-weight: bold;
+	color:#436810;
+	font-size: 12px;
+
+}
+
+.clear{
+	clear: both;
+}
